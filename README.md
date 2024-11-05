@@ -33,10 +33,27 @@ After cleaning the data, it was further analysed and imported to SQL to provide 
 - Customers with subscriptions above 12 months
 - Total revenue by subscription type
 - Top 3 regions by subscription cancellations
-- total number of active and cancelled subscriptions
+- Total number of active and cancelled subscriptions
 
  ### Data Visualization
  ----
 ![Citi Comm](https://github.com/user-attachments/assets/1f5940de-1148-48b5-adb9-45c3768e935a)
 
 ### Insights Generated
+---
+- Subscription Trend:
+  Subscription numbers exhibited fluctuations over time, both monthly, quarterly, and annually. Monthly revenue remained steady until a sharp decline in September, dropping from $6.75 million in August to $3.37 million in September. On a quarterly basis, there was consistent growth from the first to the second quarter, but by the third quarter, revenue fell from $20 million to $16 million, and further declined to $10 million by the fourth quarter. Yearly figures also showed a decline, with revenue dropping from $40 million in 2022 to $27 million in 2023. This trend suggests a downturn in subscriptions after a certain period.
+- Subscription Type Performance:
+The bar chart indicates that the basic subscription type, which represents 50% of all subscriptions, is the most popular among customers, generating over $17 million more in revenue than the premium and standard subscription types. Furthermore, the basic plan has had no cancellations, indicating high customer satisfaction. This suggests that customers prefer the simplicity and affordability of the basic plan over the other types.
+- Regional Performance:
+The regional performance visuals revealed two key insights. First, each region generated similar total revenue, but with varying sales rates — the East region had the highest sales rate at 25.12%, while the West had the lowest at 24.92%. Second, the East region stood out by having no record of cancellations, unlike other regions where occasional cancellations occurred. This could be due to higher customer engagement or more effective local marketing strategies in the East.
+- Average Subscription
+  The average subscription lasts for 365 days per year, indicating that subscribers are generally satisfied with the services provided, as they renew their subscriptions annually.
+
+  ### Recommendations
+  ---
+Based on the insights provided, the following are recommended:
+- Increase marketing efforts during peak periods to capitalize on natural customer interest, and implement targeted promotions or membership discounts during slower months to encourage new sign-ups.
+- Focus marketing efforts on highlighting the benefits of the basic subscription while considering adjustments to the premium and standard plans. Offering discounts and membership promotions can also help drive sales for these other subscription types.
+- Strengthen marketing efforts in the other regions by adopting strategies that have proven successful in the East region, focusing on increasing customer engagement and optimizing local marketing campaigns.
+- Given the positive average subscription duration, consider implementing engagement strategies such as personalised communications, exclusive offers, periodic check-ins and feedback to maintain customer satisfaction and keep subscribers actively engaged
