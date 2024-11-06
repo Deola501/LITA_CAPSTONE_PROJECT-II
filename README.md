@@ -14,7 +14,7 @@ The primary Data used here is the CustomerData provided by the Incubator Hub
 ---
 - Microsoft Excel for Data cleaning and analysis [download here](https://1drv.ms/x/c/3d767624932c4481/EYUL3nu9mcpKqPdPKRv2thsBkdHyGPh1_5JfMw_nt1hzvg?e=sWJeTu)
 - Structured Query Languauge (SQL) for querying of Data [download here](https://1drv.ms/w/c/3d767624932c4481/ET6T2MftEwxGuta3vZrKR4wBSAZUbD7iqqDSE9lkVARgpw?e=gc5MLQ)
-- Micosoft PowerBI for visualization
+- Micosoft PowerBI for visualization [download here](https://1drv.ms/u/c/3d767624932c4481/EVruo4Ummn1JhLyBeo5OFNMBR4Zen2xZsxc8BuqL56tMvg?e=0U8D8V)
 - Github for portfolio building
 
 ### Data Cleaning and Preparations
