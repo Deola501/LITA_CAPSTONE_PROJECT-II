@@ -38,6 +38,7 @@ After cleaning the data, it was further analysed and imported to SQL to provide 
  ### Data Visualization
  ----
 ![Citi Comm](https://github.com/user-attachments/assets/1f5940de-1148-48b5-adb9-45c3768e935a)
+![Citi Comm 2](https://github.com/user-attachments/assets/6800a7ac-5df2-42c0-954e-4377ff99e790)
 
 ### Insights Generated
 ---
